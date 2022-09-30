@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleciberg
-- 👀 I’m interested in Healthcare Tech, AI, Open Source Software
-- 🌱 I’m currently learning React
+- 👀 I’m interested in FinTech and HealthTech, AI, Open Source Software
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on my first open source PR 🕺🏻
 - 📫 How to reach me ibergalec@icloud.com
 
